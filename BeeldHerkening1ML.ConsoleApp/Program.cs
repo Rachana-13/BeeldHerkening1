@@ -1,4 +1,5 @@
 using System;
+using System.Diagnostics;
 using BeeldHerkening1ML.Model;
 namespace BeeldHerkening1
 

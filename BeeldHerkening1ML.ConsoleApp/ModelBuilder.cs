@@ -7,6 +7,7 @@ using System.Linq;
 using Microsoft.ML;
 using Microsoft.ML.Data;
 using BeeldHerkening1ML.Model;
+using BeeldHerkening1;
 
 namespace BeeldHerkening1ML.ConsoleApp
 {
